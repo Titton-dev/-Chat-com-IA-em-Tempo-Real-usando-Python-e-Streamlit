@@ -93,6 +93,6 @@ Projetos acadêmicos e técnicos
 
 Projeto desenvolvido pelo curso 'Jornada python' e replicado para fins educacionais, com foco em aprendizado prático de Python, Streamlit e Inteligência Artificial.
 
-📄 Licença
+## 📚 Referência de Estudo
 
-Este projeto é de uso educacional e livre para estudos e melhorias.
+Este projeto foi desenvolvido com base em um curso gratuito da plataforma Jornada Python, com adaptações e personalizações realizadas durante o aprendizado.
